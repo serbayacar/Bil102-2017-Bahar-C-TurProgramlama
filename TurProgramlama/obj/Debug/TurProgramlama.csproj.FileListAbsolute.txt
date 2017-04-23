@@ -1,0 +1,10 @@
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\bin\Debug\TurProgramlama.exe.config
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\bin\Debug\TurProgramlama.exe
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\bin\Debug\TurProgramlama.pdb
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.csprojResolveAssemblyReference.cache
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.Form1.resources
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.Properties.Resources.resources
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.csproj.GenerateResource.Cache
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.exe
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.pdb
+C:\Users\Kali\OneDrive\Projeler\VS\TurProgramlama\TurProgramlama\obj\Debug\TurProgramlama.Form2.resources
